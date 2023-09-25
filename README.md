@@ -1,5 +1,7 @@
 # vue-tailwind
 
+Demo: https://akipham15.github.io/vue-tailwind/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
